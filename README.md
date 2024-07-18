@@ -1,12 +1,14 @@
+# CryptoClustering
+
 <p align="center">
 <img src="Resources\Images\cryptocurrency.png" width="700px">
 </p>
 
-# CryptoClustering
+
 In this challenge, I’ll use my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 
-# Going about the challenge
+## Going about the challenge
 To complete this assignment, I made use pandas, hvplot, and various sklearn packages to read in a crypto market data csv and visualize the market patterns.  
 
 <p align="center">
